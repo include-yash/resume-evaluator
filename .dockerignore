@@ -1,0 +1,1 @@
+pycache*.pyc *.pyo *.pyd .Python venv/ .env .log .git .gitignore test_.py *.pdf

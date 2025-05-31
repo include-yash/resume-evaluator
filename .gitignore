@@ -32,6 +32,8 @@ node_modules/
 dist/
 build/
 
+/node_modules
+
 # Environment and testing files
 .pytest_cache/
 .coverage
