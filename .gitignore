@@ -1,0 +1,39 @@
+# Python virtual environment
+venv/
+.env
+
+# BAML generated client
+baml_client/
+baml_client_output/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Dependency directories (if any)
+node_modules/
+dist/
+build/
+
+# Environment and testing files
+.pytest_cache/
+.coverage
+coverage.xml
+*.cover
