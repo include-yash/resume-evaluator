@@ -2,6 +2,9 @@
 
 A FastAPI-based backend for evaluating candidate resumes against a reference resume using Google Gemini LLM via BAML. Upload two PDF resumes and receive a structured score and reasoning.
 
+![image](https://github.com/user-attachments/assets/a03dc085-e4ce-4007-a9b3-c5c2121d5cfb)
+
+
 ---
 
 ## Features
