@@ -2,9 +2,6 @@
 venv/
 .env
 
-# BAML generated client
-baml_client/
-baml_client_output/
 
 # Python cache and compiled files
 __pycache__/
